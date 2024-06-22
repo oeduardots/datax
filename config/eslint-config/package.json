@@ -12,7 +12,7 @@
     "eslint-plugin-simple-import-sort": "^12.1.0",
     "@datax/prettier": "workspace:*"
   },
-  "prettier": "@saas/prettier",
+  "prettier": "@datax/prettier",
   "eslintConfig": {
     "extends": ["./library.js"]
   }
